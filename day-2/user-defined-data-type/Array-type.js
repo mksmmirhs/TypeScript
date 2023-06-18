@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+//let userName: string[];
+var userName;
+userName = ['anis', 'karim', 'jabed'];
+console.log(userName[0]);
+userName.sort();
+console.log(userName);
+var multipleType;
+multipleType = [1, 'hello', 3];

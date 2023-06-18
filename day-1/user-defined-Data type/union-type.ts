@@ -1,6 +1,5 @@
 let user: number | string;
 user = 123;
-user = 'hello';
 
 function showNumbers(num1: number | string, num2: number | string) {
   console.log(num1, num2);
